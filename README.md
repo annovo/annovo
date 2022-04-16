@@ -1,6 +1,11 @@
 <h1 align="center"> Hi, I'm Anastasiia 👋 </h1>
 <br/>
-<h3 align = "center"> I love playing games and coding 👾 So here it is combined 👇 </h3>
+
+## Fun things I do
+- 💻 coding
+- 👾 playing games 
+- 📷 photography
+- ⛰️ hiking
 
 <br/>
 
@@ -11,14 +16,12 @@
   <a href="https://annovo.github.io/gameoflife/"><img width="40%" src= "https://media.giphy.com/media/pdeVwOLoDYMLBMVarQ/giphy.gif" /></a>
   <img align="top" width="0.24%" src="https://user-images.githubusercontent.com/64330181/163661434-ce70399c-ccb3-4aba-a44d-4a5c3e1d957a.png" />
 </div>
-
+<br/>
 <br/>
 
-<div align= "center">
- <h4>And other stuff I'm having fun with 💻 </h4>
-<div>
-<br/>
+## 
 
+<br/>
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -41,17 +44,3 @@
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   </div>
 </div>
-<!--
-**annovo/annovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
