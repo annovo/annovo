@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Anastasiia 👋 </h1>
 <br/>
-<h3 align = "center"> I love playing games 🎮 </h3>
+<h3 align = "center"> I love playing games and coding 👾 So here it is combined 👇 </h3>
 
 <br/>
 
@@ -15,7 +15,7 @@
 <br/>
 
 <div align= "center">
- <h4>And coding 💻 </h4>
+ <h4>And other stuff I'm having fun with 💻 </h4>
 <div>
 <br/>
 
