@@ -1,22 +1,17 @@
 <h1 align="center"> Hi, I'm Anastasiia 👋 </h1>
-<br/>
-
-## Fun things I do
-- 💻 coding
-- 👾 playing games 
-- 📷 photography
-- ⛰️ hiking
-
-<br/>
 
 ## My projects 
 <br/>
 <div align= "center">
+  <a href="https://github.com/annovo/real-real-tin-matching-service"><img  width="40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFyb3I5bmkzeTM0YTV0bDNyZ3BhYjltN3hxc2M4amRqMmRkbWMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ouEOrbg47XxRUpUmrJ/giphy.gif" />
+  </a>
+  <br/>
   <img align="top" width="0.24%" src="https://user-images.githubusercontent.com/64330181/163661434-ce70399c-ccb3-4aba-a44d-4a5c3e1d957a.png" />
   <a href="https://annovo.github.io/chip-8/"><img width="40%" src= "https://media.giphy.com/media/2Mtqg8tdMHihNBartk/giphy.gif" /></a>
   <img align="top" width="0.24%" src="https://user-images.githubusercontent.com/64330181/163661434-ce70399c-ccb3-4aba-a44d-4a5c3e1d957a.png" />
   <a href="https://annovo.github.io/gameoflife/"><img width="40%" src= "https://media.giphy.com/media/pdeVwOLoDYMLBMVarQ/giphy.gif" /></a>
   <img align="top" width="0.24%" src="https://user-images.githubusercontent.com/64330181/163661434-ce70399c-ccb3-4aba-a44d-4a5c3e1d957a.png" />
+  </a>
 </div>
 <br/>
 <br/>
